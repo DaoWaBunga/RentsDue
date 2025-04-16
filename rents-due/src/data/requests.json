@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "propertyId": 3,
+    "unit": 11,
+    "type": "Pest Infestation",
+    "description": "Landlord, the cockroaches have taken over the living room. Please send help!",
+    "cost": 500
+  },
+  {
+    "id": 2,
+    "propertyId": 1,
+    "unit": 4,
+    "type": "Leaky Faucet",
+    "description": "The kitchen faucet is leaking and flooding the counter.",
+    "cost": 150
+  },
+  {
+    "id": 3,
+    "propertyId": 2,
+    "unit": 7,
+    "type": "Broken Heater",
+    "description": "It's freezing! The heater stopped working last night.",
+    "cost": 300
+  }
+] 
